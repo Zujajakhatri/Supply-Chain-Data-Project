@@ -1,0 +1,411 @@
+﻿Year,Province,District,Dominant_Industry,Key_Anchor_Sectors,Anchor_firm_presence,Dominant_Value_Chain,Estimated_Number_of_SMEs,Estimated_Number_of_Employees,Production_Volume,Processing_Capacity,"Infrastructure (Roads, Electricity, Internet)",Logistics/Transport_Connectivity,Banking_Penetration (%),Access_to_Credit / Lending,Working_Capital_Gap_Score,Estimated_Production_Volume,Export_Oriented,Supply_Chain_Financing_Opportunity_Score,Opportunity_Level,Recommended_Banking_Product
+2016,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,7859,70731,Medium,High,High,High,55,Medium,58.33,424386,No,56.63,Low,Inventory Finance
+2017,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,7941,71469,Medium,High,High,High,55,Medium,58.33,428814,No,56.63,Low,Inventory Finance
+2018,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8024,80240,Medium,High,High,High,55,Medium,58.33,481440,No,56.63,Low,Inventory Finance
+2019,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8108,81080,Medium,High,High,High,55,Medium,58.33,486480,No,56.63,Low,Inventory Finance
+2020,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8193,68575,Medium,High,High,High,55,Medium,58.33,442422,No,56.63,Low,Inventory Finance
+2021,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8279,81134,Medium,High,High,High,55,Medium,58.33,496740,No,56.63,Low,Inventory Finance
+2022,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8366,83660,Medium,High,High,High,55,Medium,58.33,501960,No,56.63,Low,Inventory Finance
+2023,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8453,94843,Medium,High,High,High,55,Medium,58.33,1115796,No,58.05,Low,Inventory Finance
+2024,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8542,97720,Medium,High,High,High,55,Medium,58.33,1127544,No,58.05,Low,Inventory Finance
+2025,Khyber Pakhtunkhwa,Abbottabad,Hospitality & Tourism,Hospitality & Tourism,Yes,Cotton,8631,109786,Medium,High,High,High,55,Medium,58.33,1242864,No,58.05,Low,Inventory Finance
+2016,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,21292,149044,High,High,Medium,Medium,50,Medium,91.67,8048376,Yes,62.83,Medium,PO Finance + Inventory Finance
+2017,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,21851,152957,High,High,Medium,Medium,50,Medium,91.67,8259678,Yes,62.83,Medium,PO Finance + Inventory Finance
+2018,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,22424,156968,High,High,Medium,Medium,50,Medium,91.67,8476272,Yes,62.83,Medium,PO Finance + Inventory Finance
+2019,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,23013,184104,High,High,Medium,Medium,50,Medium,91.67,9941616,Yes,62.83,Medium,PO Finance + Inventory Finance
+2020,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,23617,175710,High,High,Medium,Medium,50,Medium,91.67,10202544,Yes,62.83,Medium,PO Finance + Inventory Finance
+2021,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,24237,190018,High,High,Medium,Medium,50,Medium,91.67,10470384,Yes,62.83,Medium,PO Finance + Inventory Finance
+2022,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,24873,198984,High,High,Medium,Medium,50,Medium,91.67,16117704,Yes,64.25,Medium,PO Finance + Inventory Finance
+2023,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,25526,234329,High,High,Medium,Medium,50,Medium,91.67,18608454,Yes,64.25,Medium,PO Finance + Inventory Finance
+2024,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,26195,245185,High,High,Medium,Medium,50,Medium,91.67,19096155,Yes,64.25,Medium,PO Finance + Inventory Finance
+2025,Punjab,Bahawalpur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,26883,284960,High,High,Medium,Medium,50,Medium,91.67,21775230,Yes,64.25,Medium,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,6785,47495,Medium,High,Low,Medium,25,Low,75,284970,Yes,55.67,Low,PO Finance + Inventory Finance
+2017,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,6957,48699,Medium,High,Low,Medium,25,Low,75,292194,Yes,55.67,Low,PO Finance + Inventory Finance
+2018,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,7134,49938,Medium,High,Low,Medium,25,Low,75,299628,Yes,55.67,Low,PO Finance + Inventory Finance
+2019,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,7316,58528,Medium,High,Low,Medium,25,Low,75,351168,Yes,55.67,Low,PO Finance + Inventory Finance
+2020,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,7502,55815,Medium,High,Low,Medium,25,Low,75,360096,Yes,55.67,Low,PO Finance + Inventory Finance
+2021,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,7693,60313,Medium,High,Low,Medium,25,Low,75,369264,Yes,55.67,Low,PO Finance + Inventory Finance
+2022,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,7888,63104,Medium,High,Low,Medium,25,Low,75,378624,Yes,55.67,Low,PO Finance + Inventory Finance
+2023,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,8089,74257,Medium,High,Low,Medium,25,Low,75,436806,Yes,55.67,Low,PO Finance + Inventory Finance
+2024,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,8295,77641,Medium,High,Low,Medium,25,Low,75,447930,Yes,55.67,Low,PO Finance + Inventory Finance
+2025,Khyber Pakhtunkhwa,Bannu,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Livestock & Dairy ,8506,90164,Medium,High,Low,Medium,25,Low,75,1020720,Yes,57,Low,PO Finance + Inventory Finance
+2016,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2559,28149,Medium,High,Low,High,25,Low,75,168894,No,64.23,Medium,Inventory Finance
+2017,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2589,28479,Medium,High,Low,High,25,Low,75,170874,No,64.23,Medium,Inventory Finance
+2018,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2619,31428,Medium,High,Low,High,25,Low,75,188568,No,64.23,Medium,Inventory Finance
+2019,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2650,31800,Medium,High,Low,High,25,Low,75,190800,No,64.23,Medium,Inventory Finance
+2020,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2681,29920,Medium,High,Low,High,25,Low,75,193032,No,64.23,Medium,Inventory Finance
+2021,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2713,34564,Medium,High,Low,High,25,Low,75,211614,No,64.23,Medium,Inventory Finance
+2022,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2745,35685,Medium,High,Low,High,25,Low,75,214110,No,64.23,Medium,Inventory Finance
+2023,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2777,39656,Medium,High,Low,High,25,Low,75,233268,No,64.23,Medium,Inventory Finance
+2024,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2810,40914,Medium,High,Low,High,25,Low,75,236040,No,64.23,Medium,Inventory Finance
+2025,Balochistan,Chaman,Transport & Logistics,Transport & Logistics,No,Horticulture,2843,45204,Medium,High,Low,High,25,Low,75,255870,No,64.23,Medium,Inventory Finance
+2016,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9426,65982,Medium,High,Medium,High,40,Low,75,791784,Yes,58.05,Low,PO Finance + Inventory Finance
+2017,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9628,67396,Medium,High,Medium,High,40,Low,75,808752,Yes,58.05,Low,PO Finance + Inventory Finance
+2018,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9834,68838,Medium,High,Medium,High,40,Low,75,826056,Yes,58.05,Low,PO Finance + Inventory Finance
+2019,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10045,80360,Medium,High,Medium,High,40,Low,75,964320,Yes,58.05,Low,PO Finance + Inventory Finance
+2020,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10260,76334,Medium,High,Medium,High,40,Low,75,984960,Yes,58.05,Low,PO Finance + Inventory Finance
+2021,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10480,82163,Medium,High,Medium,High,40,Low,75,1006080,Yes,58.05,Low,PO Finance + Inventory Finance
+2022,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10705,85640,Medium,High,Medium,High,40,Low,75,2055360,Yes,59.47,Low,PO Finance + Inventory Finance
+2023,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10934,100374,Medium,High,Medium,High,40,Low,75,2361744,Yes,59.47,Low,PO Finance + Inventory Finance
+2024,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11168,104532,Medium,High,Medium,High,40,Low,75,2412288,Yes,59.47,Low,PO Finance + Inventory Finance
+2025,Khyber Pakhtunkhwa,Charsadda,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11408,120925,Medium,High,Medium,High,40,Low,75,2737920,Yes,59.47,Low,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9505,66535,Medium,High,Medium,Medium,30,Low,83.33,798420,Yes,59.23,Low,PO Finance + Inventory Finance
+2017,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9693,67851,Medium,High,Medium,Medium,30,Low,83.33,814212,Yes,59.23,Low,PO Finance + Inventory Finance
+2018,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9884,69188,Medium,High,Medium,Medium,30,Low,83.33,830256,Yes,59.23,Low,PO Finance + Inventory Finance
+2019,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10080,80640,Medium,High,Medium,Medium,30,Low,83.33,967680,Yes,59.23,Low,PO Finance + Inventory Finance
+2020,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10279,76476,Medium,High,Medium,Medium,30,Low,83.33,986784,Yes,59.23,Low,PO Finance + Inventory Finance
+2021,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10482,82179,Medium,High,Medium,Medium,30,Low,83.33,1006272,Yes,59.23,Low,PO Finance + Inventory Finance
+2022,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10689,85512,Medium,High,Medium,Medium,30,Low,83.33,1026144,Yes,59.23,Low,PO Finance + Inventory Finance
+2023,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10900,100062,Medium,High,Medium,Medium,30,Low,83.33,2354400,Yes,60.65,Medium,PO Finance + Inventory Finance
+2024,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11116,104046,Medium,High,Medium,Medium,30,Low,83.33,2401056,Yes,60.65,Medium,PO Finance + Inventory Finance
+2025,Khyber Pakhtunkhwa,Dera Ismail Khan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11335,120151,Medium,High,Medium,Medium,30,Low,83.33,2720400,Yes,60.65,Medium,PO Finance + Inventory Finance
+2016,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,46035,690525,High,High,High,High,75,High,75,55932525,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,46956,704340,High,High,High,High,75,High,75,57051540,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,47895,766320,High,High,High,High,75,High,75,62071920,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,48853,781648,High,High,High,High,75,High,75,63313488,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,49830,741470,High,High,High,High,75,High,75,64579680,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,50826,846761,High,High,High,High,75,High,75,69987402,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,51843,881331,High,High,High,High,75,High,75,71387811,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,52880,970877,High,High,High,High,75,High,75,77099040,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,53937,1009701,High,High,High,High,75,High,75,78640146,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Punjab,Faisalabad,Textile & Apparel,Textile & Apparel,Yes,Textile,55016,1108022,High,High,High,High,75,High,75,84669624,Yes,77.63,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,29022,522396,High,High,High,High,65,Medium,83.33,42314076,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2017,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,29870,537660,High,High,High,High,65,Medium,83.33,43550460,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2018,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,30742,584098,High,High,High,High,65,Medium,83.33,47311938,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2019,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,31640,601160,High,High,High,High,65,Medium,83.33,48693960,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2020,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,32564,575406,High,High,High,High,65,Medium,83.33,50115996,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2021,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,33516,656914,High,High,High,High,65,Medium,83.33,54295920,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2022,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,34495,689900,High,High,High,High,65,Medium,83.33,55881900,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2023,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,35502,760453,High,High,High,High,65,Medium,83.33,60388902,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2024,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,36539,798012,High,High,High,High,65,Medium,83.33,62152839,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2025,Punjab,Gujranwala,Textile & Apparel,Textile & Apparel,Yes,Light Engineering & Manufacturing,37607,876995,High,High,High,High,65,Medium,83.33,67015674,Yes,80.05,High,PO Finance + Payables Finance + Receivables Discounting
+2016,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1526,16786,Medium,High,Medium,Medium,50,Medium,66.67,100716,No,69.58,Medium,Inventory Finance
+2017,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1570,17270,Medium,High,Medium,Medium,50,Medium,66.67,103620,No,69.58,Medium,Inventory Finance
+2018,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1615,19380,Medium,High,Medium,Medium,50,Medium,66.67,116280,No,69.58,Medium,Inventory Finance
+2019,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1662,19944,Medium,High,Medium,Medium,50,Medium,66.67,119664,No,69.58,Medium,Inventory Finance
+2020,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1710,19084,Medium,High,Medium,Medium,50,Medium,66.67,123120,No,69.58,Medium,Inventory Finance
+2021,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1760,22422,Medium,High,Medium,Medium,50,Medium,66.67,137280,No,69.58,Medium,Inventory Finance
+2022,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1811,23543,Medium,High,Medium,Medium,50,Medium,66.67,141258,No,69.58,Medium,Inventory Finance
+2023,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1818,25961,Medium,High,Medium,Medium,50,Medium,66.67,152712,No,69.58,Medium,Inventory Finance
+2024,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1871,27242,Medium,High,Medium,Medium,50,Medium,66.67,157164,No,69.58,Medium,Inventory Finance
+2025,Balochistan,Gwadar,Transport & Logistics,Transport & Logistics,Yes,Fisheries,1925,30608,Medium,High,Medium,Medium,50,Medium,66.67,173250,No,69.58,Medium,Inventory Finance
+2016,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,5801,98617,High,High,High,High,55,Medium,66.67,1775106,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,5975,101575,High,High,High,High,55,Medium,66.67,1828350,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6154,110772,High,High,High,High,55,Medium,66.67,1993896,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6339,114102,High,High,High,High,55,Medium,66.67,2053836,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6529,109295,High,High,High,High,55,Medium,66.67,2115396,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6725,125220,High,High,High,High,55,Medium,66.67,2299950,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6927,131613,High,High,High,High,55,Medium,66.67,2369034,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,6998,142759,High,High,High,High,55,Medium,66.67,2519280,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,7208,149926,High,High,High,High,55,Medium,66.67,2594880,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Khyber Pakhtunkhwa,Haripur,Manufacturing,Manufacturing,Yes,Agriculture & Food Processing,7424,165258,High,High,High,High,55,Medium,66.67,2806272,Yes,68.57,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,12884,193260,High,Medium,High,High,65,Medium,75,4638240,Yes,68.38,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,13102,196530,High,Medium,High,High,65,Medium,75,4716720,Yes,68.38,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,13324,213184,High,Medium,High,High,65,Medium,75,7674624,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,13550,216800,High,Medium,High,High,65,Medium,75,7804800,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,13779,205032,High,Medium,High,High,65,Medium,75,7936704,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,14012,233440,High,Medium,High,High,65,Medium,75,8575344,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,14249,242233,High,Medium,High,High,65,Medium,75,8720388,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,14491,266055,High,Medium,High,High,65,Medium,75,9390168,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,14736,275858,High,Medium,High,High,65,Medium,75,9548928,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Sindh,Hyderabad,Textile & Apparel,Textile & Apparel,Yes,Cotton & Textile,14985,301798,High,Medium,High,High,65,Medium,75,10249740,Yes,69.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,11586,92688,Medium,Medium,High,High,75,High,50,1483008,Yes,64.08,Medium,Receivables Discounting / Factoring
+2017,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,11934,95472,Medium,Medium,High,High,75,High,50,1527552,Yes,64.08,Medium,Receivables Discounting / Factoring
+2018,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,12292,98336,Medium,Medium,High,High,75,High,50,1573376,Yes,64.08,Medium,Receivables Discounting / Factoring
+2019,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,12661,113949,Medium,Medium,High,High,75,High,50,1823184,Yes,64.08,Medium,Receivables Discounting / Factoring
+2020,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,13041,109153,Medium,Medium,High,High,75,High,50,1877904,Yes,64.08,Medium,Receivables Discounting / Factoring
+2021,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,13432,118470,Medium,Medium,High,High,75,High,50,1934208,Yes,64.08,Medium,Receivables Discounting / Factoring
+2022,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,13835,138350,Medium,Medium,High,High,75,High,50,2213600,Yes,64.08,Medium,Receivables Discounting / Factoring
+2023,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,14250,145350,Medium,Medium,High,High,75,High,50,2280000,Yes,64.08,Medium,Receivables Discounting / Factoring
+2024,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,14677,152641,Medium,Medium,High,High,75,High,50,2348320,Yes,64.08,Medium,Receivables Discounting / Factoring
+2025,Punjab,Islamabad,Professional Services,Professional Services,Yes,IT & Services,15118,176276,Medium,Medium,High,High,75,High,50,2660768,Yes,64.08,Medium,Receivables Discounting / Factoring
+2016,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,17076,119532,High,Medium,High,High,95,High,66.67,4303152,No,61,Medium,Distributor / Channel Finance
+2017,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,17702,123914,High,Medium,High,High,95,High,66.67,4460904,No,61,Medium,Distributor / Channel Finance
+2018,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,18351,128457,High,Medium,High,High,95,High,66.67,4624452,No,61,Medium,Distributor / Channel Finance
+2019,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,19023,152184,High,Medium,High,High,95,High,66.67,5478624,No,61,Medium,Distributor / Channel Finance
+2020,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,19721,146724,High,Medium,High,High,95,High,66.67,5679648,No,61,Medium,Distributor / Channel Finance
+2021,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,20443,160273,High,Medium,High,High,95,High,66.67,5887584,No,61,Medium,Distributor / Channel Finance
+2022,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,21193,169544,High,Medium,High,High,95,High,66.67,6103584,No,61,Medium,Distributor / Channel Finance
+2023,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,21969,179267,High,Medium,High,High,95,High,66.67,6327072,No,61,Medium,Distributor / Channel Finance
+2024,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,22774,189480,High,Medium,High,High,95,High,66.67,6558912,No,61,Medium,Distributor / Channel Finance
+2025,Sindh,Karachi Central,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Manufacturing & Trade,23609,225230,High,Medium,High,High,95,High,66.67,11473974,No,62.42,Medium,Distributor / Channel Finance
+2016,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,16477,148293,High,High,High,High,95,High,58.33,5338548,Yes,58.87,Low,Payables Finance
+2017,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,17320,155880,High,High,High,High,95,High,66.67,8417520,Yes,60.78,Medium,Payables Finance
+2018,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,18206,182060,High,High,High,High,95,High,66.67,9831240,Yes,60.78,Medium,Payables Finance
+2019,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,19137,191370,High,High,High,High,95,High,66.67,10333980,Yes,60.78,Medium,Payables Finance
+2020,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,20115,187070,High,High,High,High,95,High,66.67,10862100,Yes,60.78,Medium,Payables Finance
+2021,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,21144,227932,High,High,High,High,95,High,66.67,18839304,Yes,62.2,Medium,Payables Finance
+2022,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,22225,244475,High,High,High,High,95,High,66.67,19802475,Yes,62.2,Medium,Payables Finance
+2023,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,23362,285951,High,High,High,High,95,High,66.67,22707864,Yes,62.2,Medium,Payables Finance
+2024,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,24557,306471,High,High,High,High,95,High,66.67,23869404,Yes,62.2,Medium,Payables Finance
+2025,Sindh,Karachi East,Information Technology (IT),Information Technology (IT),Yes,IT & Services,25812,355689,High,High,High,High,95,High,66.67,27180036,Yes,62.2,Medium,Payables Finance
+2016,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,10067,80536,High,Medium,Medium,High,90,High,58.33,966432,No,55.15,Low,Distributor / Channel Finance
+2017,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,10539,84312,High,Medium,Medium,High,90,High,58.33,1011744,No,55.15,Low,Distributor / Channel Finance
+2018,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,11034,88272,High,Medium,Medium,High,90,High,58.33,2118528,No,56.57,Low,Distributor / Channel Finance
+2019,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,11552,103968,High,Medium,Medium,High,90,High,58.33,2495232,No,56.57,Low,Distributor / Channel Finance
+2020,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,12094,101227,High,Medium,Medium,High,90,High,58.33,2612304,No,56.57,Low,Distributor / Channel Finance
+2021,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,12662,111679,High,Medium,Medium,High,90,High,58.33,2734992,No,56.57,Low,Distributor / Channel Finance
+2022,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,13256,132560,High,Medium,Medium,High,90,High,58.33,3181440,No,56.57,Low,Distributor / Channel Finance
+2023,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,13878,141556,High,Medium,Medium,High,90,High,58.33,3330720,No,56.57,Low,Distributor / Channel Finance
+2024,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,14530,151112,High,Medium,Medium,High,90,High,58.33,3487200,No,56.57,Low,Distributor / Channel Finance
+2025,Sindh,Karachi South,Professional Services,Professional Services,Yes,Trade,15212,177372,High,Medium,Medium,High,90,High,58.33,4015968,No,56.57,Low,Distributor / Channel Finance
+2016,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,24785,421345,High,Medium,High,High,75,High,75,22752630,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,23274,395658,High,Medium,High,High,75,High,75,21365532,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,21856,393408,High,Medium,High,High,75,High,75,21244032,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,20525,369450,High,Medium,High,High,75,High,75,19950300,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,19274,322647,High,Medium,High,High,75,High,75,18734328,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,18100,337022,High,Medium,High,High,75,High,75,18570600,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,16997,322943,High,Medium,High,High,75,High,75,17438922,Yes,75.72,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,15961,325604,High,Medium,High,High,75,High,66.67,11491920,Yes,73.8,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,14989,311771,High,Medium,High,High,75,High,66.67,10792080,Yes,73.8,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Sindh,Karachi West,Manufacturing,Manufacturing,Yes,Manufacturing,14075,313310,High,Medium,High,High,75,High,66.67,10640700,Yes,73.8,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,11125,122375,High,High,High,High,65,Medium,75,4405500,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2017,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,10900,119900,High,High,High,High,65,Medium,75,4316400,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2018,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,11125,133500,High,High,High,High,65,Medium,75,4806000,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2019,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,11355,136260,High,High,High,High,65,Medium,75,4905360,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2020,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,11589,129333,High,High,High,High,65,Medium,75,5006448,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2021,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,11828,150689,High,High,High,High,65,Medium,75,5535504,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2022,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,12073,156949,High,High,High,High,65,Medium,75,5650164,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2023,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,12322,175958,High,High,High,High,65,Medium,75,6210288,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2024,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,12576,183107,High,High,High,High,65,Medium,75,6338304,No,64.27,Medium,"Receivables Discounting / Factoring, PO Finance"
+2025,Sindh,Kemari,Transport & Logistics,Transport & Logistics,Yes,Logistics,12836,204092,High,High,High,High,65,Medium,75,10397160,No,65.68,Medium,"Receivables Discounting / Factoring, PO Finance"
+2016,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,4609,69135,Medium,High,Low,Medium,25,Low,75,414810,Yes,58.98,Low,Debt‑Based Financing
+2017,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,4779,71685,Medium,High,Low,Medium,25,Low,75,430110,Yes,58.98,Low,Debt‑Based Financing
+2018,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,4955,79280,Medium,High,Low,Medium,25,Low,75,475680,Yes,58.98,Low,Debt‑Based Financing
+2019,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,5138,82208,Medium,High,Low,Medium,25,Low,75,493248,Yes,58.98,Low,Debt‑Based Financing
+2020,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,5328,79281,Medium,High,Low,Medium,25,Low,75,511488,Yes,58.98,Low,Debt‑Based Financing
+2021,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,5525,92046,Medium,High,Low,Medium,25,Low,75,1127100,Yes,60.32,Low,Debt‑Based Financing
+2022,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,5729,97393,Medium,High,Low,Medium,25,Low,75,1168716,Yes,60.32,Low,Debt‑Based Financing
+2023,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,5940,109058,Medium,High,Low,Medium,25,Low,75,1283040,Yes,60.32,Low,Debt‑Based Financing
+2024,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,6160,115315,Medium,High,Low,Medium,25,Low,75,1330560,Yes,60.32,Low,Debt‑Based Financing
+2025,Balochistan,Khuzdar,Mining & Minerals,Mining & Minerals,Yes,Mining,6387,128634,Medium,High,Low,Medium,25,Low,75,1456236,Yes,60.32,Low,Debt‑Based Financing
+2016,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,5710,114200,Medium,High,Medium,Medium,40,Low,66.67,1370400,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2017,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,5921,118420,Medium,High,Medium,Medium,40,Low,66.67,1421040,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2018,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,6138,128898,Medium,High,Medium,Medium,40,Low,66.67,1546776,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2019,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,6365,133665,Medium,High,Medium,Medium,40,Low,66.67,1603980,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2020,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,6599,128878,Medium,High,Medium,Medium,40,Low,66.67,1662948,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2021,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,6842,147514,Medium,High,Medium,Medium,40,Low,66.67,1806288,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2022,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,7094,156068,Medium,High,Medium,Medium,40,Low,66.67,1872816,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2023,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,7355,172548,Medium,High,Medium,Medium,40,Low,66.67,2029980,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2024,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,7626,182414,Medium,High,Medium,Medium,40,Low,66.67,2104776,Yes,57.55,Low,PO Finance + Payables Finance + Receivables Discounting
+2025,Khyber Pakhtunkhwa,Kohat,Chemicals & Allied Industries,Mining and Mineral Extraction,Yes,Minerals,7906,201129,Medium,High,Medium,Medium,40,Low,66.67,3415392,Yes,58.97,Low,PO Finance + Payables Finance + Receivables Discounting
+2016,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,15237,228555,High,High,High,High,75,High,58.33,12341970,Yes,62.43,Medium,Distributor / Channel Finance
+2017,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,14636,219540,High,High,High,High,75,High,58.33,11855160,Yes,62.43,Medium,Distributor / Channel Finance
+2018,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,15237,243792,High,High,High,High,75,High,58.33,13164768,Yes,62.43,Medium,Distributor / Channel Finance
+2019,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,15863,253808,High,High,High,High,75,High,58.33,13705632,Yes,62.43,Medium,Distributor / Channel Finance
+2020,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,16514,245728,High,High,High,High,75,High,58.33,14268096,Yes,62.43,Medium,Distributor / Channel Finance
+2021,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,17193,286435,High,High,High,High,75,High,66.67,23674761,Yes,64.35,Medium,Distributor / Channel Finance
+2022,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,17898,304266,High,High,High,High,75,High,66.67,24645546,Yes,64.35,Medium,Distributor / Channel Finance
+2023,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,18633,342102,High,High,High,High,75,High,66.67,27166914,Yes,64.35,Medium,Distributor / Channel Finance
+2024,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,19398,363131,High,High,High,High,75,High,66.67,28282284,Yes,64.35,Medium,Distributor / Channel Finance
+2025,Sindh,Korangi,Textile & Apparel,Textile & Apparel,Yes,Manufacturing & Trade,20195,406727,High,High,High,High,75,High,66.67,31080105,Yes,64.35,Medium,Distributor / Channel Finance
+2016,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,64579,452053,High,High,High,High,75,High,66.67,36616293,No,74.33,Medium,Distributor / Channel Finance
+2017,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,66279,463953,High,High,High,High,75,High,66.67,37580193,No,74.33,Medium,Distributor / Channel Finance
+2018,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,68025,476175,High,High,High,High,75,High,66.67,38570175,No,74.33,Medium,Distributor / Channel Finance
+2019,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,69816,558528,High,High,High,High,75,High,66.67,45240768,No,74.33,Medium,Distributor / Channel Finance
+2020,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,71655,533113,High,High,High,High,75,High,66.67,46432440,No,74.33,Medium,Distributor / Channel Finance
+2021,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,73542,576569,High,High,High,High,75,High,66.67,47655216,No,74.33,Medium,Distributor / Channel Finance
+2022,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,75478,603824,High,High,High,High,75,High,66.67,48909744,No,74.33,Medium,Distributor / Channel Finance
+2023,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,77466,632123,High,High,High,High,75,High,66.67,50197968,No,74.33,Medium,Distributor / Channel Finance
+2024,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,79506,661490,High,High,High,High,75,High,66.67,51519888,No,74.33,Medium,Distributor / Channel Finance
+2025,Punjab,Lahore,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,IT & Services,81599,778454,High,High,High,High,75,High,66.67,59485671,No,74.33,Medium,Distributor / Channel Finance
+2016,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,8846,61922,Medium,High,Medium,Medium,40,Low,75,371532,Yes,55.73,Low,PO Finance + Inventory Finance
+2017,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9081,63567,Medium,High,Medium,Medium,40,Low,75,381402,Yes,55.73,Low,PO Finance + Inventory Finance
+2018,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9322,65254,Medium,High,Medium,Medium,40,Low,83.33,783048,Yes,57.57,Low,PO Finance + Inventory Finance
+2019,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9570,76560,Medium,High,Medium,Medium,40,Low,83.33,918720,Yes,57.57,Low,PO Finance + Inventory Finance
+2020,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9825,73098,Medium,High,Medium,Medium,40,Low,83.33,943200,Yes,57.57,Low,PO Finance + Inventory Finance
+2021,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10086,79074,Medium,High,Medium,Medium,40,Low,83.33,968256,Yes,57.57,Low,PO Finance + Inventory Finance
+2022,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10355,82840,Medium,High,Medium,Medium,40,Low,83.33,994080,Yes,57.57,Low,PO Finance + Inventory Finance
+2023,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10630,97583,Medium,High,Medium,Medium,40,Low,83.33,2296080,Yes,58.98,Low,PO Finance + Inventory Finance
+2024,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10913,102146,Medium,High,Medium,Medium,40,Low,83.33,2357208,Yes,58.98,Low,PO Finance + Inventory Finance
+2025,Sindh,Larkana,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11203,118752,Medium,High,Medium,Medium,40,Low,83.33,2688720,Yes,58.98,Low,PO Finance + Inventory Finance
+2016,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3339,60102,Medium,Medium,Medium,High,50,Medium,66.67,240408,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3433,61794,Medium,Medium,Medium,High,50,Medium,66.67,247176,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3530,67070,Medium,Medium,Medium,High,50,Medium,66.67,268280,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3629,68951,Medium,Medium,Medium,High,50,Medium,66.67,275804,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3732,65944,Medium,Medium,Medium,High,50,Medium,66.67,283632,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3837,75205,Medium,Medium,Medium,High,50,Medium,66.67,306960,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,3945,78900,Medium,Medium,Medium,High,50,Medium,66.67,315600,Yes,71.95,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,4057,86901,Medium,Medium,Medium,High,50,Medium,66.67,681576,Yes,73.28,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,4171,91095,Medium,Medium,Medium,High,50,Medium,66.67,700728,Yes,73.28,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Balochistan,Lasbela,Chemicals & Allied Industries,Chemicals & Plastics,Yes,Livestock & Dairy,4289,100019,Medium,Medium,Medium,High,50,Medium,66.67,754864,Yes,73.28,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11024,77168,High,Medium,Medium,High,50,Medium,75,926016,Yes,62.88,Medium,PO Finance + Inventory Finance
+2017,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11463,80241,High,Medium,Medium,High,50,Medium,75,962892,Yes,62.88,Medium,PO Finance + Inventory Finance
+2018,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11920,83440,High,Medium,Medium,High,50,Medium,75,1001280,Yes,62.88,Medium,PO Finance + Inventory Finance
+2019,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,12394,99152,High,Medium,Medium,High,50,Medium,75,2379648,Yes,64.3,Medium,PO Finance + Inventory Finance
+2020,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,12888,95887,High,Medium,Medium,High,50,Medium,75,2474496,Yes,64.3,Medium,PO Finance + Inventory Finance
+2021,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,13401,105064,High,Medium,Medium,High,50,Medium,75,2572992,Yes,64.3,Medium,PO Finance + Inventory Finance
+2022,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,13934,111472,High,Medium,Medium,High,50,Medium,75,2675328,Yes,64.3,Medium,PO Finance + Inventory Finance
+2023,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,14489,133009,High,Medium,Medium,High,50,Medium,75,3129624,Yes,64.3,Medium,PO Finance + Inventory Finance
+2024,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,15066,141018,High,Medium,Medium,High,50,Medium,75,3254256,Yes,64.3,Medium,PO Finance + Inventory Finance
+2025,Sindh,Malir,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,15665,166049,High,Medium,Medium,High,50,Medium,75,3759600,Yes,64.3,Medium,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9050,63350,Medium,High,Medium,High,40,Low,75,380100,Yes,58.72,Low,PO Finance + Inventory Finance
+2017,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9272,64904,Medium,High,Medium,High,40,Low,83.33,778848,Yes,60.63,Medium,PO Finance + Inventory Finance
+2018,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9500,66500,Medium,High,Medium,High,40,Low,83.33,798000,Yes,60.63,Medium,PO Finance + Inventory Finance
+2019,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9733,77864,Medium,High,Medium,High,40,Low,83.33,934368,Yes,60.63,Medium,PO Finance + Inventory Finance
+2020,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,9972,74192,Medium,High,Medium,High,40,Low,83.33,957312,Yes,60.63,Medium,PO Finance + Inventory Finance
+2021,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10217,80101,Medium,High,Medium,High,40,Low,83.33,980832,Yes,60.63,Medium,PO Finance + Inventory Finance
+2022,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10468,83744,Medium,High,Medium,High,40,Low,83.33,1004928,Yes,60.63,Medium,PO Finance + Inventory Finance
+2023,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10725,98456,Medium,High,Medium,High,40,Low,83.33,2316600,Yes,62.05,Medium,PO Finance + Inventory Finance
+2024,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,10989,102857,Medium,High,Medium,High,40,Low,83.33,2373624,Yes,62.05,Medium,PO Finance + Inventory Finance
+2025,Khyber Pakhtunkhwa,Mansehra,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,11259,119345,Medium,High,Medium,High,40,Low,83.33,2702160,Yes,62.05,Medium,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,13800,207000,High,High,Medium,High,50,Medium,75,11178000,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2017,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,14138,212070,High,High,Medium,High,50,Medium,75,11451780,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2018,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,14485,231760,High,High,Medium,High,50,Medium,75,12515040,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2019,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,14841,237456,High,High,Medium,High,50,Medium,75,12822624,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2020,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,15205,226250,High,High,Medium,High,50,Medium,75,13137120,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2021,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,15578,259529,High,High,Medium,High,50,Medium,75,14300604,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2022,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,15960,271320,High,High,Medium,High,50,Medium,75,14651280,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2023,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,16351,300204,High,High,Medium,High,50,Medium,75,15893172,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2024,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,16753,313616,High,High,Medium,High,50,Medium,75,16283916,Yes,62.78,Medium,PO Finance + Payables Finance + Receivables Discounting
+2025,Khyber Pakhtunkhwa,Mardan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,17164,345683,High,High,Medium,High,50,Medium,83.33,26415396,Yes,64.7,Medium,PO Finance + Payables Finance + Receivables Discounting
+2016,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1540,10780,Low,High,Low,Medium,25,Low,66.67,32340,Yes,52.33,Low,PO Finance + Inventory Finance
+2017,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1583,11081,Low,High,Low,Medium,25,Low,66.67,33243,Yes,52.33,Low,PO Finance + Inventory Finance
+2018,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1627,11389,Low,High,Low,Medium,25,Low,66.67,34167,Yes,52.33,Low,PO Finance + Inventory Finance
+2019,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1672,13376,Low,High,Low,Medium,25,Low,66.67,40128,Yes,52.33,Low,PO Finance + Inventory Finance
+2020,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1719,12789,Low,High,Low,Medium,25,Low,66.67,41256,Yes,52.33,Low,PO Finance + Inventory Finance
+2021,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1766,13845,Low,High,Low,Medium,25,Low,66.67,42384,Yes,52.33,Low,PO Finance + Inventory Finance
+2022,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1816,14528,Low,High,Low,Medium,25,Low,66.67,43584,Yes,52.33,Low,PO Finance + Inventory Finance
+2023,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1866,17130,Low,High,Low,Medium,25,Low,66.67,50382,Yes,52.33,Low,PO Finance + Inventory Finance
+2024,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1918,17952,Low,High,Low,Medium,25,Low,66.67,51786,Yes,52.33,Low,PO Finance + Inventory Finance
+2025,Balochistan,Mastung,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,1972,20903,Low,High,Low,Medium,25,Low,66.67,59160,Yes,52.33,Low,PO Finance + Inventory Finance
+2016,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,27704,193928,High,High,Medium,High,60,Medium,83.33,10472112,Yes,68.4,Medium,PO Finance + Inventory Finance
+2017,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,28273,197911,High,High,Medium,High,60,Medium,83.33,10687194,Yes,68.4,Medium,PO Finance + Inventory Finance
+2018,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,28854,201978,High,High,Medium,High,60,Medium,83.33,16360218,Yes,69.82,Medium,PO Finance + Inventory Finance
+2019,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,29447,235576,High,High,Medium,High,60,Medium,83.33,19081656,Yes,69.82,Medium,PO Finance + Inventory Finance
+2020,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,30052,223587,High,High,Medium,High,60,Medium,83.33,19473696,Yes,69.82,Medium,PO Finance + Inventory Finance
+2021,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,30670,240453,High,High,Medium,High,60,Medium,83.33,19874160,Yes,69.82,Medium,PO Finance + Inventory Finance
+2022,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,31300,250400,High,High,Medium,High,60,Medium,83.33,20282400,Yes,69.82,Medium,PO Finance + Inventory Finance
+2023,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,31943,293237,High,High,Medium,High,60,Medium,83.33,23286447,Yes,69.82,Medium,PO Finance + Inventory Finance
+2024,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,32600,305136,High,High,Medium,High,60,Medium,83.33,23765400,Yes,69.82,Medium,PO Finance + Inventory Finance
+2025,Punjab,Multan,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,33270,352662,High,High,Medium,High,60,Medium,83.33,26948700,Yes,69.82,Medium,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,25405,177835,High,High,High,High,65,Medium,91.67,9603090,No,74.55,Medium,Distributor / Channel Finance
+2017,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,25806,180642,High,High,High,High,65,Medium,91.67,9754668,No,74.55,Medium,Distributor / Channel Finance
+2018,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,26213,183491,High,High,High,High,65,Medium,91.67,9908514,No,74.55,Medium,Distributor / Channel Finance
+2019,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,26627,213016,High,High,High,High,65,Medium,91.67,17254296,No,75.97,Medium,Distributor / Channel Finance
+2020,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,27047,201230,High,High,High,High,65,Medium,91.67,17526456,No,75.97,Medium,Distributor / Channel Finance
+2021,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,27474,215396,High,High,High,High,65,Medium,91.67,17803152,No,75.97,Medium,Distributor / Channel Finance
+2022,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,27907,223256,High,High,High,High,65,Medium,91.67,18083736,No,75.97,Medium,Distributor / Channel Finance
+2023,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,28348,231320,High,High,High,High,65,Medium,91.67,18369504,No,75.97,Medium,Distributor / Channel Finance
+2024,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,28795,239574,High,High,High,High,65,Medium,91.67,18659160,No,75.97,Medium,Distributor / Channel Finance
+2025,Khyber Pakhtunkhwa,Peshawar,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,29250,279045,High,High,High,High,65,Medium,91.67,21323250,No,75.97,Medium,Distributor / Channel Finance
+2016,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4299,30093,Medium,Medium,Low,Medium,25,Low,75,120372,Yes,52.83,Low,PO Finance + Inventory Finance
+2017,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4390,30730,Medium,Medium,Low,Medium,25,Low,75,122920,Yes,52.83,Low,PO Finance + Inventory Finance
+2018,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4483,31381,Medium,Medium,Low,Medium,25,Low,75,125524,Yes,52.83,Low,PO Finance + Inventory Finance
+2019,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4577,36616,Medium,Medium,Low,Medium,25,Low,75,146464,Yes,52.83,Low,PO Finance + Inventory Finance
+2020,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4674,34775,Medium,Medium,Low,Medium,25,Low,75,149568,Yes,52.83,Low,PO Finance + Inventory Finance
+2021,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4773,37420,Medium,Medium,Low,Medium,25,Low,75,152736,Yes,52.83,Low,PO Finance + Inventory Finance
+2022,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4874,38992,Medium,Medium,Low,Medium,25,Low,75,155968,Yes,52.83,Low,PO Finance + Inventory Finance
+2023,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,4977,45689,Medium,Medium,Low,Medium,25,Low,75,179172,Yes,52.83,Low,PO Finance + Inventory Finance
+2024,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,5082,47568,Medium,Medium,Low,Medium,25,Low,75,182952,Yes,52.83,Low,PO Finance + Inventory Finance
+2025,Balochistan,Pishin,Agriculture & Agribusiness,Agriculture & Agribusiness,No,Horticulture,5190,55014,Medium,Medium,Low,Medium,25,Low,75,207600,Yes,52.83,Low,PO Finance + Inventory Finance
+2016,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,13220,92540,High,Low,High,High,65,Medium,83.33,1110480,No,68.13,Medium,Distributor / Channel Finance
+2017,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,13519,94633,High,Low,High,High,65,Medium,83.33,1135596,No,68.13,Medium,Distributor / Channel Finance
+2018,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,13825,96775,High,Low,High,High,65,Medium,83.33,1161300,No,68.13,Medium,Distributor / Channel Finance
+2019,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,14138,113104,High,Low,High,High,65,Medium,83.33,1357248,No,68.13,Medium,Distributor / Channel Finance
+2020,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,14458,107568,High,Low,High,High,65,Medium,83.33,1387968,No,68.13,Medium,Distributor / Channel Finance
+2021,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,14785,115914,High,Low,High,High,65,Medium,83.33,1419360,No,68.13,Medium,Distributor / Channel Finance
+2022,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,15119,120952,High,Low,High,High,65,Medium,83.33,1451424,No,68.13,Medium,Distributor / Channel Finance
+2023,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,15461,126162,High,Low,High,High,65,Medium,83.33,1484256,No,68.13,Medium,Distributor / Channel Finance
+2024,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,15811,131548,High,Low,High,High,65,Medium,83.33,1517856,No,68.13,Medium,Distributor / Channel Finance
+2025,Balochistan,Quetta,Retail & Wholesale Trade,Retail & Wholesale Trade,Yes,Horticulture,16169,154252,High,Low,High,High,65,Medium,83.33,1746252,No,68.13,Medium,Distributor / Channel Finance
+2016,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,31521,252168,High,High,High,High,75,High,66.67,20425608,No,69.08,Medium,Distributor / Channel Finance
+2017,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,32182,257456,High,High,High,High,75,High,66.67,20853936,No,69.08,Medium,Distributor / Channel Finance
+2018,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,32857,262856,High,High,High,High,75,High,66.67,21291336,No,69.08,Medium,Distributor / Channel Finance
+2019,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,33546,301914,High,High,High,High,75,High,66.67,24455034,No,69.08,Medium,Distributor / Channel Finance
+2020,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,34250,286672,High,High,High,High,75,High,66.67,24968250,No,69.08,Medium,Distributor / Channel Finance
+2021,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,34968,308418,High,High,High,High,75,High,66.67,25491672,No,69.08,Medium,Distributor / Channel Finance
+2022,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,35702,357020,High,High,High,High,75,High,66.67,28918620,No,69.08,Medium,Distributor / Channel Finance
+2023,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,36450,371790,High,High,High,High,75,High,66.67,29524500,No,69.08,Medium,Distributor / Channel Finance
+2024,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,37215,387036,High,High,High,High,75,High,66.67,30144150,No,69.08,Medium,Distributor / Channel Finance
+2025,Punjab,Rawalpindi,Professional Services,Professional Services,Yes,Manufacturing & Trade,37995,443022,High,High,High,High,75,High,66.67,33853545,No,69.08,Medium,Distributor / Channel Finance
+2016,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,14632,175584,High,High,Medium,High,50,Medium,75,6321024,Yes,59.67,Low,PO Finance + Inventory Finance
+2017,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,14970,179640,High,High,Medium,High,50,Medium,75,6467040,Yes,59.67,Low,PO Finance + Inventory Finance
+2018,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,15316,199108,High,High,Medium,High,50,Medium,75,10751832,Yes,61.08,Medium,PO Finance + Inventory Finance
+2019,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,15669,203697,High,High,Medium,High,50,Medium,75,10999638,Yes,61.08,Medium,PO Finance + Inventory Finance
+2020,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,16031,193815,High,High,Medium,High,50,Medium,75,7502508,Yes,59.67,Low,PO Finance + Inventory Finance
+2021,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,16401,225022,High,High,Medium,High,50,Medium,75,12399156,Yes,61.08,Medium,PO Finance + Inventory Finance
+2022,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,16780,234920,High,High,Medium,High,50,Medium,83.33,19028520,Yes,63,Medium,PO Finance + Inventory Finance
+2023,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,17167,262655,High,High,Medium,High,50,Medium,83.33,20857905,Yes,63,Medium,PO Finance + Inventory Finance
+2024,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,17563,273983,High,High,Medium,High,50,Medium,83.33,21339045,Yes,63,Medium,PO Finance + Inventory Finance
+2025,Punjab,Sahiwal,Food & Beverage Processing,Food & Beverage Processing,Yes,Livestock & Dairy,17969,304754,High,High,Medium,High,50,Medium,83.33,23287824,Yes,63,Medium,PO Finance + Inventory Finance
+2016,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,21442,150094,High,High,Medium,Medium,50,Medium,83.33,8105076,Yes,61.83,Medium,PO Finance + Inventory Finance
+2017,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,22018,154126,High,High,Medium,Medium,50,Medium,83.33,8322804,Yes,61.83,Medium,PO Finance + Inventory Finance
+2018,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,22611,158277,High,High,Medium,Medium,50,Medium,83.33,8546958,Yes,61.83,Medium,PO Finance + Inventory Finance
+2019,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,23219,185752,High,High,Medium,Medium,50,Medium,83.33,10030608,Yes,61.83,Medium,PO Finance + Inventory Finance
+2020,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,23844,177399,High,High,Medium,Medium,50,Medium,83.33,10300608,Yes,61.83,Medium,PO Finance + Inventory Finance
+2021,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,24485,191962,High,High,Medium,Medium,50,Medium,83.33,10577520,Yes,61.83,Medium,PO Finance + Inventory Finance
+2022,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,25144,201152,High,High,Medium,Medium,50,Medium,83.33,16293312,Yes,63.25,Medium,PO Finance + Inventory Finance
+2023,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,25820,237028,High,High,Medium,Medium,50,Medium,83.33,18822780,Yes,63.25,Medium,PO Finance + Inventory Finance
+2024,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,26515,248180,High,High,Medium,Medium,50,Medium,83.33,19329435,Yes,63.25,Medium,PO Finance + Inventory Finance
+2025,Punjab,Sargodha,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,27228,288617,High,High,Medium,Medium,50,Medium,83.33,22054680,Yes,63.25,Medium,PO Finance + Inventory Finance
+2016,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,20078,240936,High,High,High,High,55,Medium,75,19515816,Yes,70.65,Medium,PO Finance + Inventory Finance
+2017,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,20611,247332,High,High,High,High,55,Medium,75,20033892,Yes,70.65,Medium,PO Finance + Inventory Finance
+2018,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,21159,275067,High,High,High,High,55,Medium,75,22280427,Yes,70.65,Medium,PO Finance + Inventory Finance
+2019,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,21721,282373,High,High,High,High,55,Medium,75,22872213,Yes,70.65,Medium,PO Finance + Inventory Finance
+2020,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,22298,269583,High,High,High,High,55,Medium,75,23479794,Yes,70.65,Medium,PO Finance + Inventory Finance
+2021,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,22890,314051,High,High,High,High,55,Medium,75,25957260,Yes,70.65,Medium,PO Finance + Inventory Finance
+2022,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,23498,328972,High,High,High,High,55,Medium,75,26646732,Yes,70.65,Medium,PO Finance + Inventory Finance
+2023,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,24122,369067,High,High,High,High,55,Medium,75,29308230,Yes,70.65,Medium,PO Finance + Inventory Finance
+2024,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,24763,386303,High,High,High,High,55,Medium,75,30087045,Yes,70.65,Medium,PO Finance + Inventory Finance
+2025,Punjab,Sheikhupura,Textile & Apparel,Textile & Apparel,Yes,Horticulture,25421,431140,High,High,High,High,55,Medium,75,32945616,Yes,70.65,Medium,PO Finance + Inventory Finance
+2016,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,22651,294463,High,High,High,High,75,High,66.67,23851503,Yes,64.55,Medium,Payables Finance
+2017,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,23202,301626,High,High,High,High,75,High,66.67,24431706,Yes,64.55,Medium,Payables Finance
+2018,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,23767,332738,High,High,High,High,75,High,66.67,26951778,Yes,64.55,Medium,Payables Finance
+2019,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,24345,340830,High,High,High,High,75,High,66.67,27607230,Yes,64.55,Medium,Payables Finance
+2020,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,24938,324693,High,High,High,High,75,High,66.67,28279692,Yes,64.55,Medium,Payables Finance
+2021,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,25545,375512,High,High,High,High,75,High,66.67,31037175,Yes,64.55,Medium,Payables Finance
+2022,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,26166,392490,High,High,High,High,75,High,66.67,31791690,Yes,64.55,Medium,Payables Finance
+2023,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,26803,437425,High,High,High,High,75,High,66.67,34736688,Yes,64.55,Medium,Payables Finance
+2024,Punjab,Sialkot,Sports Goods,Sports Goods,Yes,Sports Goods & Surgical Instruments,27455,456851,High,High,High,High,75,High,66.67,35581680,Yes,64.55,Medium,Payables Finance
+2025,Punjab,Sialkot,Sports Goods,Sports Goods,No,Sports Goods & Surgical Instruments,28123,506776,High,High,High,High,75,High,66.67,38725371,Yes,63.13,Medium,Inventory Finance
+2016,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1032,6192,Low,Medium,Low,Medium,33.33,Low,66.67,12384,No,49.33,Low,Inventory Finance
+2017,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1071,6426,Low,Medium,Low,Medium,33.33,Low,66.67,12852,No,49.33,Low,Inventory Finance
+2018,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1111,7777,Low,Medium,Low,Medium,33.33,Low,66.67,15554,No,49.33,Low,Inventory Finance
+2019,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1153,8071,Low,Medium,Low,Medium,33.33,Low,66.67,16142,No,49.33,Low,Inventory Finance
+2020,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1196,7786,Low,Medium,Low,Medium,33.33,Low,66.67,16744,No,49.33,Low,Inventory Finance
+2021,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1241,8513,Low,Medium,Low,Medium,33.33,Low,66.67,17374,No,49.33,Low,Inventory Finance
+2022,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1287,10296,Low,Medium,Low,Medium,33.33,Low,66.67,20592,No,49.33,Low,Inventory Finance
+2023,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1335,10894,Low,Medium,Low,Medium,33.33,Low,66.67,21360,No,49.33,Low,Inventory Finance
+2024,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1385,11523,Low,Medium,Low,Medium,33.33,Low,66.67,22160,No,49.33,Low,Inventory Finance
+2025,Balochistan,Sibi,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1437,13709,Low,Medium,Low,Medium,33.33,Low,66.67,25866,No,49.33,Low,Inventory Finance
+2016,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,8721,61047,Medium,High,Medium,High,50,Medium,58.33,366282,Yes,63.08,Medium,PO Finance + Inventory Finance
+2017,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,8863,62041,Medium,High,Medium,High,50,Medium,58.33,372246,Yes,63.08,Medium,PO Finance + Inventory Finance
+2018,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9008,63056,Medium,High,Medium,High,50,Medium,58.33,378336,Yes,63.08,Medium,PO Finance + Inventory Finance
+2019,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9156,73248,Medium,High,Medium,High,50,Medium,58.33,439488,Yes,63.08,Medium,PO Finance + Inventory Finance
+2020,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9305,69229,Medium,High,Medium,High,50,Medium,66.67,893280,Yes,65,Medium,PO Finance + Inventory Finance
+2021,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9457,74143,Medium,High,Medium,High,50,Medium,66.67,907872,Yes,65,Medium,PO Finance + Inventory Finance
+2022,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9612,76896,Medium,High,Medium,High,50,Medium,66.67,922752,Yes,65,Medium,PO Finance + Inventory Finance
+2023,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9769,89679,Medium,High,Medium,High,50,Medium,66.67,2110104,Yes,66.42,Medium,PO Finance + Inventory Finance
+2024,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,9929,92935,Medium,High,Medium,High,50,Medium,66.67,2144664,Yes,66.42,Medium,PO Finance + Inventory Finance
+2025,Sindh,Sukkur,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Date Palm,10091,106965,Medium,High,Medium,High,50,Medium,66.67,2421840,Yes,66.42,Medium,PO Finance + Inventory Finance
+2016,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,13415,120735,Medium,High,Medium,Medium,40,Low,83.33,2897640,No,58.97,Low,Inventory Finance
+2017,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,13758,123822,Medium,High,Medium,Medium,40,Low,83.33,2971728,No,58.97,Low,Inventory Finance
+2018,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,14110,141100,Medium,High,Medium,Medium,40,Low,83.33,3386400,No,58.97,Low,Inventory Finance
+2019,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,14471,144710,Medium,High,Medium,Medium,40,Low,83.33,3473040,No,58.97,Low,Inventory Finance
+2020,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,14841,124219,Medium,High,Medium,Medium,40,Low,83.33,3205656,No,58.97,Low,Inventory Finance
+2021,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,15220,149156,Medium,High,Medium,Medium,40,Low,83.33,3652800,No,58.97,Low,Inventory Finance
+2022,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,15610,156100,Medium,High,Medium,Medium,40,Low,83.33,3746400,No,58.97,Low,Inventory Finance
+2023,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,16009,179621,Medium,High,Medium,Medium,40,Low,83.33,4226376,No,58.97,Low,Inventory Finance
+2024,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,16418,187822,Medium,High,Medium,Medium,40,Low,83.33,4334352,No,58.97,Low,Inventory Finance
+2025,Khyber Pakhtunkhwa,Swat,Hospitality & Tourism,Hospitality & Tourism,Yes,Horticulture,16838,214179,Medium,High,Medium,Medium,40,Low,91.67,10911024,No,62.3,Medium,Inventory Finance
+2016,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,5278,36946,Medium,High,Low,Medium,25,Low,75,221676,Yes,64.23,Medium,PO Finance + Inventory Finance
+2017,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,5416,37912,Medium,High,Low,Medium,25,Low,75,227472,Yes,64.23,Medium,PO Finance + Inventory Finance
+2018,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,5557,38899,Medium,High,Low,Medium,25,Low,75,233394,Yes,64.23,Medium,PO Finance + Inventory Finance
+2019,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,5702,45616,Medium,High,Low,Medium,25,Low,75,273696,Yes,64.23,Medium,PO Finance + Inventory Finance
+2020,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,5850,43524,Medium,High,Low,Medium,25,Low,75,280800,Yes,64.23,Medium,PO Finance + Inventory Finance
+2021,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,6003,47064,Medium,High,Low,Medium,25,Low,75,288144,Yes,64.23,Medium,PO Finance + Inventory Finance
+2022,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,6159,49272,Medium,High,Low,Medium,25,Low,75,295632,Yes,64.23,Medium,PO Finance + Inventory Finance
+2023,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,6320,58018,Medium,High,Low,Medium,25,Low,75,341280,Yes,64.23,Medium,PO Finance + Inventory Finance
+2024,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,6485,60700,Medium,High,Low,Medium,25,Low,75,350190,Yes,64.23,Medium,PO Finance + Inventory Finance
+2025,Balochistan,Turbat,Agriculture & Agribusiness,Agriculture & Agribusiness,Yes,Horticulture,6654,70532,Medium,High,Low,Medium,25,Low,75,399240,Yes,64.23,Medium,PO Finance + Inventory Finance
+2016,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1807,10842,Low,High,Low,Low,25,Low,66.67,32526,No,49.33,Low,Inventory Finance
+2017,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1849,11094,Low,High,Low,Low,25,Low,66.67,33282,No,49.33,Low,Inventory Finance
+2018,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1891,13237,Low,High,Low,Low,25,Low,66.67,39711,No,49.33,Low,Inventory Finance
+2019,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1935,13545,Low,High,Low,Low,25,Low,66.67,40635,No,49.33,Low,Inventory Finance
+2020,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,1979,12883,Low,High,Low,Low,25,Low,66.67,41559,No,49.33,Low,Inventory Finance
+2021,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,2025,13892,Low,High,Low,Low,25,Low,66.67,42525,No,49.33,Low,Inventory Finance
+2022,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,2071,16568,Low,High,Low,Low,25,Low,66.67,49704,No,49.33,Low,Inventory Finance
+2023,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,2119,17291,Low,High,Low,Low,25,Low,66.67,50856,No,49.33,Low,Inventory Finance
+2024,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,2168,18038,Low,High,Low,Low,25,Low,66.67,52032,No,49.33,Low,Inventory Finance
+2025,Balochistan,Zhob,Livestock & Dairy,Livestock & Dairy,No,Livestock & Dairy,2217,21150,Low,High,Low,Low,25,Low,66.67,59859,No,49.33,Low,Inventory Finance
